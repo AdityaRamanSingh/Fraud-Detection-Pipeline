@@ -1,3 +1,5 @@
+# it will produce normal transaction data without fraud 
+
 from __future__ import annotations
 
 import json
